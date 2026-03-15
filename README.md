@@ -15,6 +15,8 @@ It installs, upgrades, or skips packages based on what is already installed on t
 
 ## PRE INSTALL
 
+1) Install Oh-My-Zsh
+
 ```BASH
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
