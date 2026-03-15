@@ -12,6 +12,13 @@ It installs, upgrades, or skips packages based on what is already installed on t
 
 <img src="./configs/images/screenshot_1.png" alt="screenshot" width="600"/>
 
+
+## PRE INSTALL
+
+```BASH
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 ## Install
 
 You can install Omakos using one of these two methods:
